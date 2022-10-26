@@ -1,0 +1,15 @@
+- title: AAMAS
+  description: International Conference on Autonomous Agents and Multiagent Systems
+  sub: AI
+  rank: B
+  dblp: aamas
+  confs:
+    - year: 2023
+      id: aamas23
+      link: https://aamas2023.soton.ac.uk/ 
+      timeline:
+        - abstract_deadline: '2022-10-21 23:59:59'
+          deadline: '2022-10-28 23:59:59'
+      timezone: UTC-12
+      date: May 29 - June 2, 2023
+      place: London, Britain
